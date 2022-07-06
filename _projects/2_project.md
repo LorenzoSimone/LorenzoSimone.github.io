@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: ECGAN
+description: Self-supervised generative adversarial model for biomedical timeseries
+img: assets/img/ecgan.png
 importance: 2
 category: work
 ---

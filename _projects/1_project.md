@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Basis Pursuit
+description: Compressed sensing representations for generative models
+img: assets/img/basispursuit.png
 importance: 1
 category: work
 ---
